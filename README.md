@@ -1,1 +1,1 @@
-# CS330
+# CS330 - Comp Graphic and Visualization
